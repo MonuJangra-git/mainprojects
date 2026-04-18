@@ -32,7 +32,7 @@ class analyser:
                 
             file.write(f"{search}")
             sender="forbgmiuseonly002@gmail.com"
-            key = "feqcikcdywtgoxui"
+            key = "feqcikcvvtyvyvh"
             reciever="forbgmiuseonly001@gmail.com"
             body=f"threat detected {search} .... check your server "
             subject=f"ALERT MAIL FROM SERVER "
